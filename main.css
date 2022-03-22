@@ -1,0 +1,14 @@
+.paragraph {
+ text-decoration-color: black;
+}
+.top-padding{ 
+    width: 100;
+background-color: rgba(144, 237, 240, 0.555);
+}
+.nav-bg{
+    background-color: aquamarine;
+}
+.row.top-padd.h1{
+    font-size: x-large;
+    margin-right: 10rem;
+}
