@@ -12,3 +12,18 @@ background-color: rgba(144, 237, 240, 0.555);
     font-size: x-large;
     margin-right: 10rem;
 }
+.form-my{
+    text-decoration-color: black;
+    list-style-type: none;
+    table-layout: none;
+    margin-top: 5%;
+    
+}
+.form-my.input:hover{
+    background-color: aqua;
+}
+.button{
+    
+    margin-top: 3%;
+ 
+}
